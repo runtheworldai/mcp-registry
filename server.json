@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.runtheworldai/runner",
+  "title": "Runner",
+  "description": "Connect Runner to Claude or ChatGPT, then ask about your business in a chat.",
+  "version": "0.31.0",
+  "websiteUrl": "https://www.runtheworld.ai/guides/use-runner-in-claude-and-chatgpt",
+  "icons": [
+    {
+      "src": "https://www.runtheworld.ai/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.runtheworld.ai/api/mcp"
+    }
+  ]
+}
