@@ -1,6 +1,6 @@
 # Runner in the MCP Registry
 
-[Runner](https://www.runtheworld.ai) is an AI growth team for your business. You run the business; Runner does the growth work, inside the limits you set.
+[Runner](https://www.runtheworld.ai): they run the work, you run the world. Your runners, in one app: they do your marketing and keep every deal moving, inside the limits you set.
 
 This repository holds Runner's entry in the [official MCP Registry](https://registry.modelcontextprotocol.io) as `io.github.runtheworldai/runner`. Runner's MCP server is hosted, so there is nothing to install:
 
